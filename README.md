@@ -1,4 +1,4 @@
-# Nairo React Personal Portfolio Template
+# Suresh Ekanayake Portfolio
 
 ## Description
 
